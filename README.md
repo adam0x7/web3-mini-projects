@@ -3,7 +3,7 @@ I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill'
 
 | Project Idea                                   | Smart Contract Repo | Frontend Repo |
 |------------------------------------------------|---------------------|---------------|
-| Purchase NFT with ERC20 tokens                 |                     |               |
+| Purchase NFT with ERC20 tokens                 |    [Project](https://github.com/atj3097/erc721-practice)                 |               |
 | Time unlocked ERC20 / vesting contract         |                     |               |
 | NFT Swap Contract                              |                     |               |
 | Crowdfunding ERC20 contract                    |                     |               |
