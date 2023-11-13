@@ -5,7 +5,7 @@ I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill'
 |------------------------------------------------|---------------------|---------------|
 | Purchase NFT with ERC20 tokens                 |    [Project](https://github.com/atj3097/erc721-practice)                 |               |
 | Time unlocked ERC20 / vesting contract         | [Project](https://github.com/atj3097/erc20-vesting)                    |               |
-| NFT Swap Contract                              |                     |               |
+| NFT Swap Contract                              |   [Project](https://github.com/atj3097/erc-721-swap)                  |               |
 | Crowdfunding ERC20 contract                    |                     |               |
 | English auction contract                       |                     |               |
 | Simple NFT Marketplace                         |                     |               |
