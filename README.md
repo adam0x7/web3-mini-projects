@@ -7,8 +7,8 @@ I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill'
 | Time unlocked ERC20 / vesting contract         | [Project](https://github.com/atj3097/erc20-vesting)                    |               |
 | NFT Swap Contract                              |   [Project](https://github.com/atj3097/erc-721-swap)                  |               |
 | Crowdfunding ERC20 contract                    |  [Project](https://github.com/atj3097/crowdfunding)                   |               |
-| English auction contract                       |                     |               |
-| Simple NFT Marketplace                         |                     |               |
+| English auction contract                       |  [Project](https://github.com/atj3097/english-auction)                   |               |
+| Simple NFT Marketplace                         |    [Project](https://github.com/atj3097/simple-nft-marketplace)                 |               |
 | Stake Together                                 |                     |               |
 | Simple lottery                                 |                     |               |
 | ERC1155 Bingo                                  |                     |               |
