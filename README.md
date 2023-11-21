@@ -9,7 +9,7 @@ I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill'
 | Crowdfunding ERC20 contract                    |  [Project](https://github.com/atj3097/crowdfunding)                   |               |
 | English auction contract                       |  [Project](https://github.com/atj3097/english-auction)                   |               |
 | Simple NFT Marketplace                         |    [Project](https://github.com/atj3097/simple-nft-marketplace)                 |               |
-| Stake Together                                 |                     |               |
+| Stake Together                                 |   [Project](https://github.com/atj3097/staking-contract)                  |               |
 | Simple lottery                                 |                     |               |
 | ERC1155 Bingo                                  |                     |               |
 | On-chain blackjack                             |                     |               |
