@@ -1,5 +1,5 @@
 # web3-mini-projects
-I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill's Beginner Solidity Projects](https://www.rareskills.io/post/beginner-solidity-projects) portfolio with my own implementations. All contracts deployed onto testnets followed with respective frontends. 
+I was rusty on Solidity & Web3 front end concepts, so I went through [RareSkill's Beginner Solidity Projects](https://www.rareskills.io/post/beginner-solidity-projects) portfolio with my own implementations. All contracts deployed onto testnets followed with respective frontends. This is for Solidity noobies going through this excersise as well to have reference implementations
 
 | Project Idea                                   | Smart Contract Repo | Frontend Repo |
 |------------------------------------------------|---------------------|---------------|
